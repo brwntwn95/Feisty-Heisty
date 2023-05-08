@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Feisty_Heisty/Saved/Logs/Feisty_Heisty.log
+Feisty_Heisty/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Feisty_Heisty/Saved/AutoScreenshot.png
