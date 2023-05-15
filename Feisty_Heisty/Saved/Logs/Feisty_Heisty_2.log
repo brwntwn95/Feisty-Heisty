@@ -115175,3 +115175,11 @@ Purging the undo buffer...
 [2023.05.15-08.15.29:352][590]AssetCheck: New page: Asset Save: Level1
 [2023.05.15-08.15.29:352][590]LogContentValidation: Display: Validating World /Game/_Maps/Level1.Level1
 [2023.05.15-08.16.18:115][564]Cmd: SELECT NONE
+[2023.05.15-08.17.09:426][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.15-08.17.09:506][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Maps/Level1" FILE="../../../../../GitHub/Feisty-Heisty/Feisty_Heisty/Content/_Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-08.17.09:536][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.15-08.17.09:566][848]LogSavePackage: Moving output files for package: /Game/_Maps/Level1
+[2023.05.15-08.17.09:567][848]LogSavePackage: Moving '../../../../../GitHub/Feisty-Heisty/Feisty_Heisty/Saved/Level158067F024F4C2544451C88B355CA4238.tmp' to '../../../../../GitHub/Feisty-Heisty/Feisty_Heisty/Content/_Maps/Level1.umap'
+[2023.05.15-08.17.09:578][848]LogFileHelpers: Saving map 'Level1' took 0.073
+[2023.05.15-08.17.09:603][848]AssetCheck: New page: Asset Save: Level1
+[2023.05.15-08.17.09:603][848]LogContentValidation: Display: Validating World /Game/_Maps/Level1.Level1
