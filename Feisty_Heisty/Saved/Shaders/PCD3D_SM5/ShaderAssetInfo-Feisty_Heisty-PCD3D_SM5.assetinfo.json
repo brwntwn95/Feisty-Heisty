@@ -70,7 +70,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"ShaderMapHash": "F7DACF10DB6590307DADE10E32F3B10861D22EA8",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
@@ -246,7 +246,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"ShaderMapHash": "F7D1E9A38C99E9F70E09910F57CCADD360FE1DAB",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
@@ -378,6 +378,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "62B7FF886A690C2BDB1B139C96A79C50DFE2353C",
+			"Assets": [
+				"/Game/PolygonHeist/Materials/Mat_PolygonHeist_01_A"
+			]
+		},
+		{
 			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
 			"Assets": [
 				"/Game/PolygonHeist/Materials/Mat_Simple_PeopleMasks_White_Blonde",
@@ -479,6 +485,13 @@
 			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BCEA721CADD42108DAF6634C4A70C6FD359CFAFA",
+			"Assets": [
+				"/Game/_Materials/M_EV_Lightbeam_Master_02",
+				"/Engine/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01"
 			]
 		},
 		{
@@ -600,12 +613,6 @@
 			"ShaderMapHash": "9B648DC8CDA725D9995FAC5ACD639609E71D78AA",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "62B7FF886A690C2BDB1B139C96A79C50DFE2353C",
-			"Assets": [
-				"/Game/PolygonHeist/Materials/Mat_PolygonHeist_01_A"
 			]
 		}
 	]
