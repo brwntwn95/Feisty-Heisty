@@ -70,7 +70,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"ShaderMapHash": "F7DACF10DB6590307DADE10E32F3B10861D22EA8",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
@@ -185,6 +185,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
 			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
@@ -240,7 +246,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"ShaderMapHash": "F7D1E9A38C99E9F70E09910F57CCADD360FE1DAB",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
@@ -372,7 +378,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3D3F61A850918194D1470CF2C1147B5B25440408",
+			"ShaderMapHash": "62B7FF886A690C2BDB1B139C96A79C50DFE2353C",
 			"Assets": [
 				"/Game/PolygonHeist/Materials/Mat_PolygonHeist_01_A"
 			]
@@ -482,6 +488,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BCEA721CADD42108DAF6634C4A70C6FD359CFAFA",
+			"Assets": [
+				"/Game/_Materials/M_EV_Lightbeam_Master_02",
+				"/Engine/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01"
+			]
+		},
+		{
 			"ShaderMapHash": "D3EB9B210C9A093766A58D491A8032599D6465C4",
 			"Assets": [
 				"/Game/PolygonCity/Materials/Mat_PolygonCity_Water"
@@ -532,8 +545,7 @@
 		{
 			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
 			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body",
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
 			]
 		},
 		{
@@ -546,15 +558,6 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "DA6A46441B03BD6405ECE8F12F79ED7F1B7E636A",
-			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequins/Materials/M_Mannequin",
-				"/Game/Characters/Mannequins/Materials/M_Mannequin",
-				"/Game/StandardAssets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
 			]
 		},
 		{
@@ -585,8 +588,7 @@
 		{
 			"ShaderMapHash": "3414F34D28E8A39EE87574AB858EBB6A3EAC3236",
 			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo",
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
 			]
 		},
 		{
@@ -611,21 +613,6 @@
 			"ShaderMapHash": "9B648DC8CDA725D9995FAC5ACD639609E71D78AA",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "C145D2E6C8ED4E31B06F436B1233CC96D9412949",
-			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
-				"/Game/StandardAssets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
-				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
-			]
-		},
-		{
-			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
-			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
 			]
 		}
 	]
