@@ -94,7 +94,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "87990165F0CBBD27FEAC3AE1B1A97EA35EEB8671",
+			"ShaderMapHash": "09A67815B73B0F0ED8E172D664632D38A47FE2A7",
 			"Assets": [
 				"/Game/_Models/Battery/M_BatteryHolder"
 			]
@@ -133,6 +133,14 @@
 			"ShaderMapHash": "5EFD187A8A1ABD5A7BDBE004611BA413DE625215",
 			"Assets": [
 				"/Game/_Materials/M_Cone"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/_Animation/Mat_PolygonTown_03_A",
+				"/Game/_Animation/Mat_PolygonHeist_Swat_Goggles",
+				"/Game/_Animation/Mat_PolygonHeist_01_A"
 			]
 		},
 		{
@@ -182,6 +190,12 @@
 			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "93DE8AADD67C4C858B699649344AA7BF2EB738A5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/BlackUnlitMaterial"
 			]
 		},
 		{
@@ -258,6 +272,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0ED9478B3126280618AD2CB4D7D7E6EA4351E935",
+			"Assets": [
+				"/Game/_Materials/M_OutofBounds"
+			]
+		},
+		{
 			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
 			"Assets": [
 				"/HairStrands/Materials/HairDebugMaterial"
@@ -313,9 +333,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF4DF5B1B0106E9403DA2CF780AA9BBDB91058C5",
+			"Assets": [
+				"/Game/_Fonts/StyleThief/Font_StyleThief_Emissive"
+			]
+		},
+		{
 			"ShaderMapHash": "D119C2F0E69C78416852C3AF43333535AC53B891",
 			"Assets": [
-				"/Game/_Fonts/LM_Font"
+				"/Game/_Fonts/StyleThief/Font_StyleThief",
+				"/Game/_Fonts/LemonMilk/LM_Font"
 			]
 		},
 		{
@@ -543,9 +570,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BF8E660C9D51FF92DEE87C4B12EB849327371747",
+			"ShaderMapHash": "5538758E5D3A2D1E1D345125584891A943B7BDD7",
 			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+				"/Game/_Materials/MaskedOcclusion/Test"
+			]
+		},
+		{
+			"ShaderMapHash": "399886E726C5475EE70A076860903BB9044A7ADA",
+			"Assets": [
+				"/Game/_Materials/M_PolyGon_TextureOccluded"
 			]
 		},
 		{
@@ -583,12 +616,6 @@
 			"ShaderMapHash": "D0117C354E7E46EABA7DAF71F71B6C5078FA3A73",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
-			"ShaderMapHash": "3414F34D28E8A39EE87574AB858EBB6A3EAC3236",
-			"Assets": [
-				"/Game/StandardAssets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
 			]
 		},
 		{
