@@ -333,6 +333,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F9A4609049E5B429FCBF46F7FB92E2E96B26401A",
+			"Assets": [
+				"/Game/_Materials/Hacked_PC/M_HackedPC"
+			]
+		},
+		{
 			"ShaderMapHash": "DF4DF5B1B0106E9403DA2CF780AA9BBDB91058C5",
 			"Assets": [
 				"/Game/_Fonts/StyleThief/Font_StyleThief_Emissive"
