@@ -75,3 +75,6 @@ DerivedDataCache/*
 Feisty_Heisty/Saved/Logs/Feisty_Heisty.log
 Feisty_Heisty/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 Feisty_Heisty/Saved/AutoScreenshot.png
+*.log
+Feisty_Heisty/Saved/Logs/Feisty_Heisty-backup-2023.05.29-09.44.20.log
+Feisty_Heisty/Saved/Engine48D1D0BA4F7D3C52E350F1B140AC1576.tmp
